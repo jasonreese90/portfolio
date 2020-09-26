@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fischer", "Fischer\Fischer.csproj", "{0ED106A6-7F6B-47C4-9E50-5E86726EB8F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ED106A6-7F6B-47C4-9E50-5E86726EB8F2}.Debug|x86.ActiveCfg = Debug|x86
+		{0ED106A6-7F6B-47C4-9E50-5E86726EB8F2}.Debug|x86.Build.0 = Debug|x86
+		{0ED106A6-7F6B-47C4-9E50-5E86726EB8F2}.Release|x86.ActiveCfg = Release|x86
+		{0ED106A6-7F6B-47C4-9E50-5E86726EB8F2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		BuildVersion_AssemblyInfoFilename = Fischer\Properties\AssemblyInfo.cs
+		BuildVersion_UpdateFileVersion = True
+		BuildVersion_UpdateAssemblyVersion = True
+	EndGlobalSection
+EndGlobal
