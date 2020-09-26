@@ -1,0 +1,11 @@
+c:\users\jason\documents\visual studio 2015\Projects\FixedStruct\FixedStructTest\bin\Debug\FixedStructTest.exe.config
+c:\users\jason\documents\visual studio 2015\Projects\FixedStruct\FixedStructTest\bin\Debug\FixedStructTest.exe
+c:\users\jason\documents\visual studio 2015\Projects\FixedStruct\FixedStructTest\bin\Debug\FixedStructTest.pdb
+c:\users\jason\documents\visual studio 2015\Projects\FixedStruct\FixedStructTest\obj\Debug\FixedStructTest.csprojResolveAssemblyReference.cache
+c:\users\jason\documents\visual studio 2015\Projects\FixedStruct\FixedStructTest\obj\Debug\FixedStructTest.Form1.resources
+c:\users\jason\documents\visual studio 2015\Projects\FixedStruct\FixedStructTest\obj\Debug\FixedStructTest.Properties.Resources.resources
+c:\users\jason\documents\visual studio 2015\Projects\FixedStruct\FixedStructTest\obj\Debug\FixedStructTest.csproj.GenerateResource.Cache
+c:\users\jason\documents\visual studio 2015\Projects\FixedStruct\FixedStructTest\obj\Debug\FixedStructTest.exe
+c:\users\jason\documents\visual studio 2015\Projects\FixedStruct\FixedStructTest\obj\Debug\FixedStructTest.pdb
+c:\users\jason\documents\visual studio 2015\Projects\FixedStruct\FixedStructTest\bin\Debug\FixedStruct.dll
+c:\users\jason\documents\visual studio 2015\Projects\FixedStruct\FixedStructTest\bin\Debug\FixedStruct.pdb
